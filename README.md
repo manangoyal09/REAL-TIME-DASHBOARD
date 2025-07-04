@@ -131,3 +131,5 @@ Customer satisfaction remains consistently high.
 This kind of data visualization supports strategic decisions in marketing, inventory, outlet expansion, and customer engagement.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6a911da6-b382-4a78-87e0-5bbeb28e8fcc)
